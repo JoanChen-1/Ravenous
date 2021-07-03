@@ -1,4 +1,5 @@
-const apiKey = 'mnc_4_ESdUQ6p5Z8m2Vt01VFzQ-4EQ70LXGLp8Pjg6_nEVkM1V1SeI44zFh-efGfUecVQxqCTxzfft9i4l22pGCwBjA62fomMoN2vEXeFeKVffnVOHHjoFQR38LaYHYx';
+//Register in YELP and put your own api key here.
+const apiKey = '<Your key>';
 const Yelp = {
     //the method used to retrieve search results from the Yelp API.
     search(term, location, sortBy){
