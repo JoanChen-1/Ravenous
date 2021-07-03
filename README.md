@@ -1,3 +1,7 @@
+### It's a sideproject on Codecademy.
+### An application for searching cuisine in cities around the world.
+API: Yelp API
+------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
